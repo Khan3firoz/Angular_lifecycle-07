@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "lifeCycleHooks"
+  "defaultProject": "lifeCycleHooks",
+  "cli": {
+    "analytics": false
+  }
 }
